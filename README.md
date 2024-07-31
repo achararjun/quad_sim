@@ -1,3 +1,5 @@
 # Autonomous Indoor Drone Application
 
-Please visit the project [website](https://rumaisaabdulhai.github.io/quad_sim/) with detailed instructions about the installation process, mapping, and navigation.
+Youtube link for demo video:
+
+https://youtu.be/3xJS7r3XE9Y
